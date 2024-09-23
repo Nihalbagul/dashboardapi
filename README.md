@@ -28,8 +28,8 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ### 2. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone [https://github.com/Nihalbagul/dashboardapi]
+cd dashboardapi
 ```
 
 ### 3. Install dependencies
@@ -94,13 +94,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 **Your Name**
 
-Feel free to reach out at [your-email@example.com](mailto:your-email@example.com) for any questions or suggestions.
+Feel free to reach out at [nihalbagul08120506@gmail.com](mailto:nihalbagul08120506@gmail.com) for any questions or suggestions.
 ```
 
 ### Steps to Use:
 
-1. Replace `your-username/your-repo` with the actual repository URL.
-2. Replace `Live Demo` with the URL of the live hosted version.
+1. Replace `Nihalbagul/dashboardap` with the actual repository URL.
+2. Replace `https://dashboardapi-gamma.vercel.app/` with the URL of the live hosted version.
 3. Modify any relevant details like author information, dependencies, or deployment instructions if necessary.
 
 This README covers the basic instructions for setting up and running your app locally, as well as deploying it. Let me know if you need any adjustments!
