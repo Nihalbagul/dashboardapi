@@ -1,0 +1,9 @@
+/* src/components/Sort.css */
+
+.sort-container {
+    margin-bottom: 20px;
+}
+
+.sort-container label {
+    margin-right: 10px;
+}

@@ -1,0 +1,13 @@
+/* src/components/Filter.css */
+
+.filter-container {
+    margin-bottom: 20px;
+}
+
+.filter {
+    margin-right: 20px;
+}
+
+.filter label {
+    margin-right: 10px;
+}
